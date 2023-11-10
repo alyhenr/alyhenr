@@ -24,5 +24,5 @@ I'm a Full Stack developer and aspiring competitive programmer! Your're very wel
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-## I'm willing to team up in all types of challenges, contact me:
+## I'm willing to team up in all types of challenges, contact me!
   
