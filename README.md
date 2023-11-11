@@ -29,7 +29,7 @@ I'm a Full Stack developer and aspiring competitive programmer! Your're very wel
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 #### I'm willing to team up in all types of challenges, contact me!
-  <p align='center'>
+  <p align='start'>
     <a href="https://www.linkedin.com/in/alysson-henrique-r-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   </p>
   
