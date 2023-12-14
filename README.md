@@ -28,6 +28,9 @@ I'm a Full Stack developer and aspiring competitive programmer! Your're very wel
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
+### What am I learning right now?
+I'm very insterested in infrastructure solutions, microservices, devops and CI/CD at this moment, so this has been a big part of my recent studies.
+
 #### I'm willing to team up for all types of challenges, contact me!
   <p align='start'>
     <a href="https://www.linkedin.com/in/alysson-henrique-r-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
