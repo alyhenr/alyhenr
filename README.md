@@ -29,7 +29,7 @@ I'm a Full Stack developer and aspiring competitive programmer! Your're very wel
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ### What am I learning right now?
-I'm very interested in infrastructure solutions, microservices, devops and CI/CD at this moment, so this has been a big part of my recent studies.
+I'm very interested in infrastructure solutions, microservices, devops and CI/CD at this moment, so these topics have been taking a big part of my recent studies.
 
 #### I'm willing to team up for all types of challenges, contact me!
   <p align='start'>
