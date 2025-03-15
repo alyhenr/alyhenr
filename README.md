@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm a Full Stack developer and aspiring competitive programmer! Your're very welcome to check my journey from not knowing to code in 2022, developing my first simple HTML + CSS pages at the beginning of 2023, to working on Full Stack projects using React.js, Next.js, PrismaORM, Nest.js, PostgesSQL, MongoDB, Tailwind, Styled-components, Express, Axios, Typescript (... the list goes on) and currently a top 6% programmer at CodeWars (where I solve the problems using C++)!
+Detail-oriented Software Developer with over 1 year of experience in web development and general programming. Proficient in designing, implementing, and maintaining robust software systems using diverse programming languages including Java, SQL, JavaScript, C++, Golang and Python. Adept at software architecture and problem-solving with a strong ability to learn and adapt
+to new technologies efficiently.
 
 ### The main technologies I've been using
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
