@@ -1,7 +1,19 @@
 ## Hi there 👋
 
-Detail-oriented Software Developer with over 1 year of experience in web development and general programming. Proficient in designing, implementing, and maintaining robust software systems using diverse programming languages including Java, SQL, JavaScript, C++, Golang and Python. Adept at software architecture and problem-solving with a strong ability to learn and adapt
-to new technologies efficiently.
+Hi! I’m a passionate and versatile software developer with solid experience in backend development using Java (Spring Boot), full-stack web development, and building robust desktop and mobile applications. I write clean, scalable code and have a strong foundation in data structures, algorithms, and system design.
+
+💡 What sets me apart is my ability to learn new technologies fast and dive into complex systems with ease. From low-level C++ to high-level cloud architectures, I thrive on building things that work — and work well.
+
+🧠 What I bring to the table:
+
+Proficient in Java, C++, Python, JavaScript, and more.
+Solid backend skills with Spring Boot, REST APIs, and microservices.
+Experience with Docker, containers, and modern DevOps practices.
+Web dev experience across frontend frameworks, responsive design, and API integration.
+Exposure to cloud environments like AWS and interest in distributed systems.
+Understanding of networking, operating systems, and software architecture fundamentals.
+Strong problem-solving mindset with competitive programming experience.
+⚙️ I’ve contributed to projects ranging from internal tools to full-scale production apps. I care about writing performant code and shipping reliable software.
 
 ### The main technologies I've been using
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
