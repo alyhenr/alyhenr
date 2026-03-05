@@ -7,19 +7,19 @@ I focus on engineering challenges that exist below the application layer. My wor
 
 ## 🛠 Core Projects
 
-### [Aether]([https://github.com/your-username/aether](https://github.com/alyhenr/aether)) | Linux Process Isolation Engine
+### [Aether]([https://github.com/your-username/aether](https://github.com/alyhenr/aether])) | Linux Process Isolation Engine
 *Implemented in C*
 * A custom container-like engine designed to explore Linux kernel primitives.
 * **Key Features:** Manual implementation of `namespaces` (UTS, PID, NET, MOUNT) and `cgroups` for resource limitation.
 * **Focus:** Security sandboxing, rootfs pivoting, and inter-process communication (IPC) isolation.
 
-### [Hyperion]([https://github.com/your-username/hyperion](https://github.com/alyhenr/hyperion)) | Low-Latency Financial Matching Engine
+### [Hyperion]([https://github.com/your-username/hyperion](https://github.com/alyhenr/hyperion])) | Low-Latency Financial Matching Engine
 *Implemented in C++*
 * A high-performance order matching system built for microsecond-level execution.
 * **Key Features:** Zero-allocation memory management, lock-free concurrency patterns, and cache-aligned data structures.
 * **Focus:** Deterministic performance and minimizing jitter in high-throughput environments.
 
-### [Custom TCP/IP Stack]([https://github.com/your-username/tcp-stack](https://github.com/alyhenr/zero-net)) | Network Protocol Implementation
+### [Custom TCP/IP Stack]([https://github.com/your-username/tcp-stack](https://github.com/alyhenr/zero-net])) | Network Protocol Implementation
 *Implemented in C*
 * A custom network stack developed to bypass kernel overhead and manage raw packet processing.
 * **Key Features:** Implementation of Ethernet, ARP, IPv4, and TCP protocol logic.
