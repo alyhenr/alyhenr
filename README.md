@@ -4,7 +4,7 @@
 I focus on engineering challenges that exist below the application layer. My work centers on Linux internals, high-performance networking, and low-latency systems. I build core infrastructure from scratch to understand and optimize the mechanics of modern computing.
 I have professional in the application side as well, building web applications with the major web frameworks and libraries.
 
-Learning: Currently taking the Ardan Labs Rust and Go trainings.
+* Learning: Currently taking the Ardan Labs Rust and Go trainings.
 ---
 
 ## 🛠 Core Projects
